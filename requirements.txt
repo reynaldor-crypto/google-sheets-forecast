@@ -1,0 +1,4 @@
+gspread
+pandas
+prophet
+google-auth-oauthlib
